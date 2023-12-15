@@ -3,12 +3,12 @@
 Home Price Dynamics Analysis
 
 
-Overview
+Overview:
 
 This project involves the development of a comprehensive data science model aimed at understanding the intricate influences impacting home prices over the past two decades. 
 By analyzing various factors, the goal is to unveil key drivers contributing to fluctuations in housing market dynamics.
 
-Model Performance Summary
+Model Performance Summary:
 
 The constructed data science model exhibits exceptional proficiency in assessing and forecasting home prices based on pertinent features. 
 Evaluation metrics showcase the model's reliability and predictive capabilities:
@@ -19,7 +19,7 @@ Evaluation metrics showcase the model's reliability and predictive capabilities:
 4) Root Mean Squared Error (RMSE): Around 3.15, measuring the average magnitude of prediction errors.
 5) Average MSE from 10-fold Cross-Validation: Consistent average MSE of approximately 25.15, showcasing model robustness.
 
-Conclusion
+Conclusion:
 
 This data science model emerges as a powerful tool, uncovering influential factors shaping home prices over two decades. 
 Its accurate forecasting abilities and explanation of market variability prove valuable for dissecting housing trends.
