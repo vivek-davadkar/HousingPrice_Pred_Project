@@ -13,8 +13,8 @@ Model Performance Summary:
 The constructed data science model exhibits exceptional proficiency in assessing and forecasting home prices based on pertinent features. 
 Evaluation metrics showcase the model's reliability and predictive capabilities:
 
-1) Mean Squared Error (MSE): Approximately 9.94, highlighting the model's precision.
-2) R-squared Score: About 0.98, elucidating nearly 98% of the variability in home prices.
+1) Mean Squared Error (MSE): Approximately 8.94, highlighting the model's precision.
+2) R-squared Score: About 0.88, elucidating nearly 88% of the variability in home prices.
 3) Adjusted R-squared: Reflects substantial feature impact on predictive capacity (approximately 0.98).
 4) Root Mean Squared Error (RMSE): Around 3.15, measuring the average magnitude of prediction errors.
 5) Average MSE from 10-fold Cross-Validation: Consistent average MSE of approximately 25.15, showcasing model robustness.
